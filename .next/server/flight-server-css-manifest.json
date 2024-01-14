@@ -1,0 +1,16 @@
+{
+  "cssImports": {
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\app\\layout.tsx": [
+      "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Raleway\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\app\\globals.css",
+      "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\ReactToastify.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\app\\page": [
+      "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\app\\globals.css",
+      "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\ReactToastify.css",
+      "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Raleway\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
