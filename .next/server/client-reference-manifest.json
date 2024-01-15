@@ -176,26 +176,6 @@
         "async": false
       }
     },
-    "(app-client)/./app/page.tsx": {
-      "*": {
-        "id": "(sc_client)/./app/page.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./app/page.tsx",
-        "name": "",
-        "chunks": [],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./app/page.tsx",
-        "name": "default",
-        "chunks": [],
-        "async": false
-      }
-    },
     "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs": {
       "*": {
         "id": "(sc_client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
@@ -272,6 +252,26 @@
       "useToastContainer": {
         "id": "(sc_client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
         "name": "useToastContainer",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/page.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/page.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/page.tsx",
+        "name": "default",
         "chunks": [],
         "async": false
       }
@@ -951,6 +951,131 @@
       ],
       "async": false
     },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\app\\globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\ReactToastify.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Raleway\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#Bounce": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "Bounce",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#Flip": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "Flip",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#Icons": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "Icons",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#Slide": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "Slide",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#ToastContainer": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "ToastContainer",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#Zoom": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "Zoom",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#collapseToast": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "collapseToast",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#cssTransition": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "cssTransition",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#toast": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "toast",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#useToast": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "useToast",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#useToastContainer": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "useToastContainer",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
     "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\app\\page.tsx": {
       "id": "(app-client)/./app/page.tsx",
       "name": "*",
@@ -974,131 +1099,6 @@
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#Bounce": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "Bounce",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#Flip": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "Flip",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#Icons": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "Icons",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#Slide": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "Slide",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#ToastContainer": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "ToastContainer",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#Zoom": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "Zoom",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#collapseToast": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "collapseToast",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#cssTransition": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "cssTransition",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#toast": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "toast",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#useToast": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "useToast",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\react-toastify.esm.mjs#useToastContainer": {
-      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
-      "name": "useToastContainer",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\app\\globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\react-toastify\\dist\\ReactToastify.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\Users\\ilyas\\OneDrive\\Desktop\\pppl\\PPPL\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Raleway\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     }
   }
 }
