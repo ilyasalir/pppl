@@ -23,14 +23,14 @@ export default function Home() {
           className="border-[1px] py-2 px-4 rounded mb-4" required
           value={email}
           onChange={e => setEmail(e.target.value)} 
-          placeholder="admin@test.com"
+          placeholder="email"
         />
         <label htmlFor="password">Password</label>
         <input type="password" name="password" id="password" required
           className="border-[1px] py-2 px-4 rounded  mb-4"
           value={password}
           onChange={e => setPassword(e.target.value)}
-          placeholder="admin123"
+          placeholder="**********"
         /> 
         <button type="submit" className="p-3 bg-blue-600 hover:bg-blue-800 text-white md:w-[200px] w-full rounded">LOG IN</button>
       </form>
