@@ -13,7 +13,7 @@ export default function MobileNav({setShowModal}: any) {
             <nav className='w-full flex flex-col h-[100vh] p-4 space-y-8'>
                 <div className="w-full flex items-center space-between">
                     <div className="mr-[75px]">
-                        <Link href="/" className='hover:text-white mt-4 mb-8 font-bold text-xl text-gray-300'>InStock</Link>
+                        <Link href="/dashboardPegawai" className='hover:text-white mt-4 mb-8 font-bold text-xl text-gray-300'>Angkringan 99</Link>
                     </div>
                     <div onClick={() => setShowModal(false)}>
                            <AiFillCloseCircle className="text-3xl cursor-pointer text-white"/>
@@ -23,25 +23,15 @@ export default function MobileNav({setShowModal}: any) {
                
                 <div className="w-full flex items-center">
                       <RiDashboardFill className="text-[#9AA8BD] hover:text-white mr-2"/>
-                     <Link href="/dashboard" className="text-[#9AA8BD] hover:text-white">Dashboard</Link>
+                     <Link href="/dashboardPegawai" className="text-[#9AA8BD] hover:text-white">Dashboard</Link>
                 </div>
                
                 <div className="w-full flex items-center">
                       <BsFillBarChartFill className="text-[#9AA8BD] hover:text-white mr-2"/>
                      <Link href="/sales" className="text-[#9AA8BD] hover:text-white">Sales</Link>
                 </div>
-                
-                  <div className="w-full flex items-center">
-                      <MdShoppingCart className="text-[#9AA8BD] hover:text-white mr-2"/>
-                     <Link href="/products" className="text-[#9AA8BD] hover:text-white">Products</Link>
-                </div>
 
-                 <div className="w-full flex items-center">
-                      <MdCategory className="text-[#9AA8BD] hover:text-white mr-2"/>
-                     <Link href="/categories" className="text-[#9AA8BD] hover:text-white">Categories</Link>
-                </div>
-
-                  <div className="w-full flex items-center">
+                <div className="w-full flex items-center">
                       <BsPersonFillLock className="text-[#9AA8BD] hover:text-white mr-2"/>
                      <Link href="/" className="text-[#9AA8BD] hover:text-white" onClick={() => LogOut(router)}>Log out</Link>
                 </div>

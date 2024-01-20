@@ -16,7 +16,7 @@ export default function Header({ title }: Props) {
      <header className='flex items-center justify-between mb-6'>
             <h2 className='text-2xl font-bold'>{title}</h2>
                     <div className='flex items-center space-x-6'>
-                <p className='text-[#9AA8BD] md:block hidden'>Welcome Admin</p>
+                <p className='text-[#9AA8BD] md:block hidden'>Welcome Owner</p>
                 <ImExit className='text-2xl text-[#D64979] md:block hidden  cursor-pointer' onClick={() => LogOut(router)} />
                 <div className="bg-white p-2 cursor-pointer md:hidden block rounded" onClick={()=> setShowModal(true)}>
                     <HiMenuAlt2 className='text-3xl text-[#D64979]'/>
