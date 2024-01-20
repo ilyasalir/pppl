@@ -71,7 +71,7 @@ export default function Dashboard() {
                             <div className='w-full bg-white p-3 flex items-center justify-between rounded my-3' key={sale.id}>
                                 <p className='md:text-md text-sm'>Order{" "}
                                     <span className='text-blue-300'>
-                                        #{sale.id}
+                                        Rp. {sale.id}
                                     </span>
                                 </p>
                             <Link href="/sales" className='px-4 py-2 bg-[#D64979] text-white text-sm rounded'>Details</Link>
