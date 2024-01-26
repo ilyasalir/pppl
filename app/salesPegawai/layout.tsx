@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Sales | InStock',
-  description: 'A stock taking application for shopping malls and stores.',
+  title: 'Sales | Angkringan99',
+  description: 'Sales. Angkringan99',
 }
 
 export default function RootLayout({
